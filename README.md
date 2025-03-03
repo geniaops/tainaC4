@@ -18,15 +18,16 @@ The "IA para la Ciudadanía" project aims to develop an AI-based citizen interac
 
 ## Documentation Structure
 
-1. [Client Requirements](./0_Plan.md)
-2. [Documentation Gap Analysis and Implementation Plan](./1_Documentation_Gap_Analysis_and_Implementation_Plan.md)
-3. [Architecture Documentation](./2_Architecture/)
-4. [Project Management Documentation](./3_Project_Management/)
-5. [Design Documentation](./4_Design/)
-6. [Testing Documentation](./5_Testing/)
-7. [Implementation Documentation](./6_Implementation/)
-8. [Data Collection and Analysis Documentation](./6_Data_Collection_and_Analysis/)
-9. [Deployment Documentation](./7_Deployment/)
+0. [Client Requirements](./0_Plan.md)
+1. [Documentation Gap Analysis and Implementation Plan](./1_Documentation_Gap_Analysis_and_Implementation_Plan.md)
+2. [Architecture Documentation](./2_Architecture/)
+3. [Project Management Documentation](./3_Project_Management/)
+3.8. [Product Backlog](./3.8_Product_Backlog_TAINA.md)
+4. [Design Documentation](./4_Design/)
+5. [Testing Documentation](./5_Testing/)
+6. [Implementation Documentation](./6_Implementation/)
+7. [Data Collection and Analysis Documentation](./6_Data_Collection_and_Analysis/)
+8. [Deployment Documentation](./7_Deployment/)
 
 ## System Overview
 
