@@ -17,17 +17,16 @@ Welcome to the comprehensive documentation for the TAINA Voice AI system. This r
 The "IA para la Ciudadanía" project aims to develop an AI-based citizen interaction system that centralizes data collection and processing through intelligent kiosks ("ventanillas inteligentes"). TAINA serves as the voice-enabled AI assistant that provides government service information, personalized recommendations, and assistance to citizens across multiple channels.
 
 ## Documentation Structure
-
 0. [Client Requirements](./0_Plan.md)
 1. [Documentation Gap Analysis and Implementation Plan](./1_Documentation_Gap_Analysis_and_Implementation_Plan.md)
-2. [Architecture Documentation](./2_Architecture/)
-3. [Project Management Documentation](./3_Project_Management/)
-3.8. [Product Backlog](./3.8_Product_Backlog_TAINA.md)
-4. [Design Documentation](./4_Design/)
-5. [Testing Documentation](./5_Testing/)
-6. [Implementation Documentation](./6_Implementation/)
-7. [Data Collection and Analysis Documentation](./6_Data_Collection_and_Analysis/)
-8. [Deployment Documentation](./7_Deployment/)
+2. [Architecture Documentation](./2_Architecture/) 🔜 *Coming soon*
+3. [Project Management Documentation](./3_Project_Management/) 🔜 *Coming soon*
+    - 3.8. [Product Backlog](./3.8_Product_Backlog_TAINA.md)
+4. [Design Documentation](./4_Design/) 🔜 *Coming soon*
+5. [Testing Documentation](./5_Testing/) 📝 *Planned*
+6. [Implementation Documentation](./6_Implementation/) ⏳ *In progress*
+7. [Data Collection and Analysis Documentation](./6_Data_Collection_and_Analysis/) 📝 *Planned*
+8. [Deployment Documentation](./7_Deployment/) 📝 *Planned*
 
 ## System Overview
 
