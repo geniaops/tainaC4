@@ -1,13 +1,3 @@
-## DISCLAIMER
-
-### Concurrent Development and Documentation Activities
-Our team initiated development of the "IA para la Ciudadanía" system without complete documentation or finalized architecture in order to meet aggressive delivery timelines. Documentation, architecture refinement, and development activities are now being conducted concurrently as the project progresses.
-Our team continues to progress with development, architecture, and documentation based on preliminary timelines, but stakeholders should be aware that deliverable dates may require modification once official demonstration and launch dates are confirmed by the client.
-### Timeline Uncertainty
-Due to the absence of confirmed dates for system demonstration and official launch from the client, our project planning and resource allocation are subject to ongoing adjustments. This timeline uncertainty presents challenges for scheduling dependencies, coordinating with third-party partners (including UNICARIBE testing sessions), and establishing firm delivery milestones.
-
-We remain committed to timely delivery while maintaining quality standards, and will promptly communicate any schedule adjustments as official dates are established.
-
 # TAINA Voice AI System Documentation
 
 Welcome to the comprehensive documentation for the TAINA Voice AI system. This repository contains architectural, project management, design, testing, data collection, and deployment documentation that supports the "IA para la Ciudadanía" initiative.
@@ -89,3 +79,15 @@ For project management documentation, see the [Primary Use Cases](./3_Project_Ma
 - **Project Manager**: [Name of PM](https://github.com/GeniaOps)
 - **Technical Writer**: [Name of TW](https://github.com/GeniaOps)
 - **Design Team**: [GeniaOps](https://github.com/GeniaOps)
+
+## DISCLAIMER
+
+### Concurrent Development and Documentation Activities
+Our team initiated development of the "IA para la Ciudadanía" system without complete documentation or finalized architecture in order to meet aggressive delivery timelines. Documentation, architecture refinement, and development activities are now being conducted concurrently as the project progresses.
+Our team continues to progress with development, architecture, and documentation based on preliminary timelines, but stakeholders should be aware that deliverable dates may require modification once official demonstration and launch dates are confirmed by the client.
+
+### Timeline Uncertainty
+Due to the absence of confirmed dates for system demonstration and official launch from the client, our project planning and resource allocation are subject to ongoing adjustments. This timeline uncertainty presents challenges for scheduling dependencies, coordinating with third-party partners (including UNICARIBE testing sessions), and establishing firm delivery milestones.
+
+We remain committed to timely delivery while maintaining quality standards, and will promptly communicate any schedule adjustments as official dates are established.
+
