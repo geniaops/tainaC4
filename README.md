@@ -1,4 +1,4 @@
-### NOTE: This repo is being updated daily
+### <span style="color:red">NOTE: This repo is being updated daily.</span>
 
 # TAINA Voice AI System Documentation
 
