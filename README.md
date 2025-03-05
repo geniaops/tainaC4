@@ -58,14 +58,14 @@ TAINA is being tested in collaboration with the Universidad del Caribe (UNICARIB
 
 ## Related Repositories
 
-- [TAINA Voice AI UI (Frontend)]
-- [TAINA WebRTC Agent (Backend)]
+- [TAINA Voice AI UI (Frontend)]🔜
+- [TAINA WebRTC Agent (Backend)]🔜
 
 ## Getting Started
 
 To understand the system architecture, start with the [C4 Context Diagram](./2_Architecture/c4-model/2.1_Context_Diagram.md) which provides a high-level overview of the entire system and its interactions with government platforms and citizens.
 
-For project management documentation, see the [Primary Use Cases](./3_Project_Management/use-cases/3.1_Primary_Use_Cases.md), [User Stories](./3_Project_Management/user-stories/), and the [Product Backlog](./3.8_Product_Backlog_TAINA.md).
+For project management documentation, see the [Primary Use Cases](./3_Project_Management/use-cases/3.1_Primary_Use_Cases.md)🔜, [User Stories](./3_Project_Management/user-stories/)🔜, and the [Product Backlog](./3.8_Product_Backlog_TAINA.md)✅.
 
 ## Document Creation Timeline
 
