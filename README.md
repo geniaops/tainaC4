@@ -1,3 +1,5 @@
+# NOTE: This repo is being updated daily
+
 # TAINA Voice AI System Documentation
 
 Welcome to the comprehensive documentation for the TAINA Voice AI system. This repository contains architectural, project management, design, testing, data collection, and deployment documentation that supports the "IA para la Ciudadanía" initiative.
@@ -63,7 +65,7 @@ TAINA is being tested in collaboration with the Universidad del Caribe (UNICARIB
 
 ## Getting Started
 
-To understand the system architecture, start with the [C4 Context Diagram](./2_Architecture/c4-model/2.1_Context_Diagram.md) which provides a high-level overview of the entire system and its interactions with government platforms and citizens.
+To understand the system architecture, start with the [C4 Context Diagram](./2_Architecture/c4-model/2.1_Context_Diagram.md)🔜 which provides a high-level overview of the entire system and its interactions with government platforms and citizens.
 
 For project management documentation, see the [Primary Use Cases](./3_Project_Management/use-cases/3.1_Primary_Use_Cases.md)🔜, [User Stories](./3_Project_Management/user-stories/)🔜, and the [Product Backlog](./3.8_Product_Backlog_TAINA.md)✅.
 
