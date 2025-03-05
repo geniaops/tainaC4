@@ -78,8 +78,8 @@ For project management documentation, see the [Primary Use Cases](./3_Project_Ma
 
 ## Contact Information
 
-- **Project Manager**: [Name of PM](https://github.com/GeniaOps)
-- **Technical Writer**: [Name of TW](https://github.com/GeniaOps)
+- **Project Manager**: [Name of PM](https://github.com)
+- **Technical Writer**: [Name of TW](https://github.com)
 - **Design Team**: [GeniaOps](https://github.com/GeniaOps)
 
 ## DISCLAIMER
