@@ -9,6 +9,7 @@ Welcome to the comprehensive documentation for the TAINA Voice AI system. This r
 The "IA para la Ciudadanía" project aims to develop an AI-based citizen interaction system that centralizes data collection and processing through intelligent kiosks ("ventanillas inteligentes"). TAINA serves as the voice-enabled AI assistant that provides government service information, personalized recommendations, and assistance to citizens across multiple channels.
 
 ## Documentation Structure
+<!-- 
 0. [Client Requirements](./0_Plan.md) ✅ *Complete*
 1. [Documentation Gap Analysis and Implementation Plan](./1_Documentation_Gap_Analysis_and_Implementation_Plan.md) ✅ *Complete*
 2. [Architecture Documentation](./2_Architecture/) 🔜 *Coming soon*
@@ -21,7 +22,7 @@ The "IA para la Ciudadanía" project aims to develop an AI-based citizen interac
 7. [Implementation Documentation](./6_Implementation/) ⏳ *In progress*
 8. [Data Collection and Analysis Documentation](./6_Data_Collection_and_Analysis/) 📝 *Planned*
 9. [Deployment Documentation](./7_Deployment/) 📝 *Planned*
-
+-->
 
 0. [Client Requirements](./0_Plan.md) ✅ *Complete*
 1. [Documentation Gap Analysis and Implementation Plan](./1_Documentation_Gap_Analysis_and_Implementation_Plan.md) ✅ *Complete*
