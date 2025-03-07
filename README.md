@@ -12,13 +12,29 @@ The "IA para la Ciudadanía" project aims to develop an AI-based citizen interac
 0. [Client Requirements](./0_Plan.md) ✅ *Complete*
 1. [Documentation Gap Analysis and Implementation Plan](./1_Documentation_Gap_Analysis_and_Implementation_Plan.md) ✅ *Complete*
 2. [Architecture Documentation](./2_Architecture/) 🔜 *Coming soon*
-3. [Project Management Documentation](./3_Project_Management/) 🔜 *Coming soon*
+    -C4 ⏳ *In progress*
+    - 2.1. [Product Backlog](./2_Architecture/c4-model/2.1_Context_Diagram.md) ✅ *Complete*
+4. [Project Management Documentation](./3_Project_Management/) 🔜 *Coming soon*
     - 3.8. [Product Backlog](./3.8_Product_Backlog_TAINA.md) ✅ *Complete*
-4. [Design Documentation](./4_Design/) 🔜 *Coming soon*
-5. [Testing Documentation](./5_Testing/) 📝 *Planned*
-6. [Implementation Documentation](./6_Implementation/) ⏳ *In progress*
-7. [Data Collection and Analysis Documentation](./6_Data_Collection_and_Analysis/) 📝 *Planned*
-8. [Deployment Documentation](./7_Deployment/) 📝 *Planned*
+5. [Design Documentation](./4_Design/) 🔜 *Coming soon*
+6. [Testing Documentation](./5_Testing/) 📝 *Planned*
+7. [Implementation Documentation](./6_Implementation/) ⏳ *In progress*
+8. [Data Collection and Analysis Documentation](./6_Data_Collection_and_Analysis/) 📝 *Planned*
+9. [Deployment Documentation](./7_Deployment/) 📝 *Planned*
+
+
+0. [Client Requirements](./0_Plan.md) ✅ *Complete*
+1. [Documentation Gap Analysis and Implementation Plan](./1_Documentation_Gap_Analysis_and_Implementation_Plan.md) ✅ *Complete*
+2. [Architecture Documentation](./2_Architecture/) 🔜 *Coming soon*
+    - [C4](./2_Architecture/c4-model/) ⏳ *In progress*
+      - 2.1. [Context Diagram](./2_Architecture/c4-model/2.1_Context_Diagram.md) 📄 *Published (under revision)*
+4. [Project Management Documentation](./3_Project_Management/) 🔜 *Coming soon*
+    - 3.8. [Product Backlog](./3.8_Product_Backlog_TAINA.md) ✅ *Complete*
+5. [Design Documentation](./4_Design/) 🔜 *Coming soon*
+6. [Testing Documentation](./5_Testing/) 📝 *Planned*
+7. [Implementation Documentation](./6_Implementation/) ⏳ *In progress*
+8. [Data Collection and Analysis Documentation](./6_Data_Collection_and_Analysis/) 📝 *Planned*
+9. [Deployment Documentation](./7_Deployment/) 📝 *Planned*
 
 ## System Overview
 
