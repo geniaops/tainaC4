@@ -33,7 +33,7 @@ The "IA para la Ciudadanía" project aims to develop an AI-based citizen interac
       - 2.1. [Context Diagram](./2_Architecture/c4-model/2.1_Context_Diagram.md) 📄 *Published (under revision)*
 4. [Project Management Documentation](./3_Project_Management/) 🔜 *Coming soon*
     - Backlog
-    - 3.8. [Product Backlog](./3.8_Product_Backlog_TAINA.md) ✅ *Complete*
+    <!-- - 3.8. [Product Backlog](./3.8_Product_Backlog_TAINA.md) ✅ *Complete* -->
     - 3.8. [Product Backlog](./3_Project_Management/backlog/3.8_Product_Backlog_TAINA.md) ✅ *Complete*
 5. [Design Documentation](./4_Design/) 🔜 *Coming soon*
 6. [Testing Documentation](./5_Testing/) 📝 *Planned*
